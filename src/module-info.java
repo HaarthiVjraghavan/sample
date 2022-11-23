@@ -1,0 +1,2 @@
+module ClassDay7 {
+}
