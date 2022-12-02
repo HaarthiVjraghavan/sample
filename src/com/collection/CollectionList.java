@@ -9,7 +9,7 @@ public class CollectionList {
 	public static void main(String[] args) {
 	List a=new ArrayList();
 	a.add(224);
-	a.add("haarthi");
+	a.add("Jayakumar");
 	a.add(456.78f);
 	a.add(67585.5675d);
 	a.add(3);
@@ -52,6 +52,7 @@ public class CollectionList {
     c.add(5689);
     l.remove(4);
     System.out.println(l);
+    System.out.println(a);
  
     System.out.println(c);
     
